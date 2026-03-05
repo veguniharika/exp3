@@ -3,7 +3,7 @@ node {
         echo 'Checking out code...'
     }
     
-    stage('Build) {
+    stage('Build') {
         echo 'Building project...'
     }
     
